@@ -1,8 +1,0 @@
-reports/*
-!reports/.gitkeep
-**/contracts/*
-!**/contracts/.gitkeep
-**/pact-mock-service.log
-**/.coverage
-**/.pytest_cache
-**/log
